@@ -24,7 +24,7 @@ text-decoration: none;
 color: white;
 }
 .navbar-toggler-icon{
-background-image:url(menu.png);
+background-image:url(/mywork/menu.png);
 background-size: cover;
 width: 100px;
 height: 100px;
